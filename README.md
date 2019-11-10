@@ -11,7 +11,7 @@ We offer a prompt for the user to follow and the rules are:
 3. And double-click is to change color
 4. Right click to delete
 
- ![drawBattle](draw-battle.png)
+ ![drawBattle](drawBattle.png)
  
  # Technologies
  React, Knex.js
