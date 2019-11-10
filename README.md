@@ -13,5 +13,5 @@ We offer a prompt for the user to follow and the rules are:
 
  ![drawBattle](draw-battle.png)
  
- # technologies
+ # Technologies
  React, Knex.js
